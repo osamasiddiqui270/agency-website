@@ -3,7 +3,7 @@
 			<div class="footer-top pt-75 pb-40">
 				<div class="row align-items-center">
 					<div class="col-md-6">
-						<div class="footer-logo mb-40 wow fadeInLeft"> <img src="assets/images/logo/footer-logo-1.png" alt="Brand Logo"> </div>
+						<div class="footer-logo mb-40 wow fadeInLeft"> <img src="{{ asset('images/logo/footer-logo-1.png') }}" alt="Brand Logo"> </div>
 					</div>
 					<div class="col-md-6">
 						<div class="text-wrapper mb-40 wow fadeInRight">
