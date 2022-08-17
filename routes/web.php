@@ -25,5 +25,13 @@ Route::get('/contact-us', function(){
     return view('contact.index');
 })->name('contact');
 
+Route::get('/Team member', function(){
+    return view('team.index');
+})->name('team');
+
+Route::get('/services', function(){
+    return view('services.index');
+})->name('services');
+
 
 

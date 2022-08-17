@@ -18,21 +18,12 @@
 						</div>
 						<nav class="main-menu">
 							<ul>
-								<li class="menu-item has-children"><a href="index.html#" class="nav-link">Services</a>
-									<ul class="sub-menu">
-										<li><a href="services.html">Our Service</a></li>
-										<li><a href="service-details.html">Service Details</a></li>
-									</ul>
-								</li>
+								<li class="menu-item has-children"><a href="{{ route('services') }}" class="nav-link">Services</a></li>
 								<li class="menu-item has-children"><a href="index.html#" class="nav-link">Portfolio</a>
-									<ul class="sub-menu">
-										<li><a href="projects.html">Our Portfolio</a></li>
-										<li><a href="project-details.html">Portfolio Details</a></li>
-									</ul>
 								</li>
-								<li class="menu-item"><a href="contact.html" class="nav-link">Our Team</a></li>
+								<li class="menu-item"><a href="{{ route('team') }}" class="nav-link">Our Team</a></li>
 								<li class="menu-item"><a href="{{ route('about') }}"  class="nav-link">About Us</a></li>
-								<li class="menu-item"><a href="contact.html" class="nav-link">Contact</a></li>
+								<li class="menu-item"><a href="{{ route('contact') }}" class="nav-link">Contact</a></li>
 							</ul>
 						</nav>
 					</div>
