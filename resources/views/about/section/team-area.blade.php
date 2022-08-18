@@ -18,7 +18,7 @@
 								<li><a href="about.html#"><i class="fab fa-dribbble"></i></a></li>
 								<li><a href="about.html#"><i class="fab fa-twitter"></i></a></li>
 							</ul>
-							<h4><a href="team.html">Douglas J. Bleau</a></h4>
+							<h4><a href="{{ route('team')}}">Douglas J. Bleau</h4></a>
 							<p class="position">UX/UI Designer</p>
 						</div>
 					</div>
@@ -28,11 +28,11 @@
 						<div class="img-holder"> <img src="{{ asset('images/team/img-2.jpg') }}" alt=""> </div>
 						<div class="text text-center">
 							<ul class="social-link">
-								<li><a href="about.html#"><i class="fab fa-facebook-f"></i></a></li>
+								<li><a href="www.facebook.com"><i class="fab fa-facebook-f"></i></a></li>
 								<li><a href="about.html#"><i class="fab fa-dribbble"></i></a></li>
 								<li><a href="about.html#"><i class="fab fa-twitter"></i></a></li>
 							</ul>
-							<h4><a href="team.html">Thomas M. Wilso</a></h4>
+							<h4><a href="{{ route('team')}}">Thomas M. Wilso</h4></a>
 							<p class="position">Web Developer</p>
 						</div>
 					</div>
@@ -46,7 +46,7 @@
 								<li><a href="about.html#"><i class="fab fa-dribbble"></i></a></li>
 								<li><a href="about.html#"><i class="fab fa-twitter"></i></a></li>
 							</ul>
-							<h4>Robert J. Ryan</h4>
+							<h4><a href="{{ route('team')}}">Robert J. Ryan</h4></a>
 							<p class="position">SEO Marketing</p>
 						</div>
 					</div>
@@ -60,7 +60,7 @@
 								<li><a href="about.html#"><i class="fab fa-dribbble"></i></a></li>
 								<li><a href="about.html#"><i class="fab fa-twitter"></i></a></li>
 							</ul>
-							<h4><a href="team.html">Kenneth K. Joiner</a></h4>
+							<h4><a href="{{ route('team')}}">Kenneth K. Joiner</h4></a>
 							<p class="position">UX/UI Designer</p>
 						</div>
 					</div>

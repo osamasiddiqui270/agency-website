@@ -26,7 +26,7 @@
               <h1>Services</h1>
               <ul class="breadcrumbs-link">
                 <li>
-                  <a href="index.html">Home</a>
+                  <a href="{{route('home')}}">Home</a>
                 </li>
                 <li class="active">Services</li>
               </ul>

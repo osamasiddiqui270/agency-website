@@ -25,68 +25,68 @@
 			<div class="row portfolio-grid">
 				<div class="col-lg-4 col-md-6 col-sm-12 cat-1 portfolio-column cat-3">
 					<div class="portfolio-item portfolio-style-one mb-55 wow fadeInUp" data-wow-delay=".1s">
-						<div class="img-holder"> <img src="assets/images/portfolio/img-1.jpg" alt="Img">
-							<a href="assets/images/portfolio/img-1.jpg" class="portfolio-hover img-popup">
+						<div class="img-holder"> <img src="{{ asset ('images/portfolio/img-1.jpg') }}" alt="Img">
+							<a href="{{ asset('images/portfolio/img-1.jpg')}}" class="portfolio-hover img-popup">
 								<div class="hover-content"> <i class="far fa-plus"></i> </div>
 							</a>
 						</div>
 						<div class="text">
-							<h3 class="title"><a href="project-details.html">Dashboard Design</a></h3> <a href="projects.html" class="cat-link">Creative Design</a> </div>
+							<h3 class="title"><a href="{{route('portfolio')}}">Dashboard Design</a></h3> <a href="projects.html" class="cat-link">Creative Design</a> </div>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6 col-sm-12 portfolio-column cat-2 cat-4">
 					<div class="portfolio-item portfolio-style-one mb-55 wow fadeInUp" data-wow-delay=".2s">
-						<div class="img-holder"> <img src="assets/images/portfolio/img-2.jpg" alt="Img">
-							<a href="assets/images/portfolio/img-2.jpg" class="portfolio-hover img-popup">
+						<div class="img-holder"> <img src="{{ asset ('images/portfolio/img-2.jpg') }}" alt="Img">
+							<a href="{{ asset('images/portfolio/img-2.jpg')}}" class="portfolio-hover img-popup">
 								<div class="hover-content"> <i class="far fa-plus"></i> </div>
 							</a>
 						</div>
 						<div class="text">
-							<h3 class="title"><a href="project-details.html">Landing Pages</a></h3> <a href="projects.html" class="cat-link">Creative Design</a> </div>
+							<h3 class="title"><a href="{{route('portfolio')}}">Landing Pages</a></h3> <a href="projects.html" class="cat-link">Creative Design</a> </div>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6 col-sm-12 portfolio-column cat-3 cat-4">
 					<div class="portfolio-item portfolio-style-one mb-55 wow fadeInUp" data-wow-delay=".3s">
-						<div class="img-holder"> <img src="assets/images/portfolio/img-3.jpg" alt="Img">
-							<a href="assets/images/portfolio/img-3.jpg" class="portfolio-hover img-popup">
+						<div class="img-holder"> <img src="{{ asset ('images/portfolio/img-3.jpg') }}" alt="Img">
+							<a href="{{ asset('images/portfolio/img-3.jpg')}}" class="portfolio-hover img-popup">
 								<div class="hover-content"> <i class="far fa-plus"></i> </div>
 							</a>
 						</div>
 						<div class="text">
-							<h3 class="title"><a href="project-details.html">Illustration Design</a></h3> <a href="projects.html" class="cat-link">Creative Design</a> </div>
+							<h3 class="title"><a href="{{route('portfolio')}}">Illustration Design</a></h3> <a href="projects.html" class="cat-link">Creative Design</a> </div>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6 col-sm-12 portfolio-column cat-4 cat-3">
 					<div class="portfolio-item portfolio-style-one mb-55 wow fadeInUp" data-wow-delay=".4s">
-						<div class="img-holder"> <img src="assets/images/portfolio/img-4.jpg" alt="Img">
-							<a href="assets/images/portfolio/img-4.jpg" class="portfolio-hover img-popup">
+						<div class="img-holder"> <img src="{{ asset ('images/portfolio/img-4.jpg') }}" alt="Img">
+							<a href="{{ asset('images/portfolio/img-4.jpg')}}" class="portfolio-hover img-popup">
 								<div class="hover-content"> <i class="far fa-plus"></i> </div>
 							</a>
 						</div>
 						<div class="text">
-							<h3 class="title"><a href="project-details.html">Dashboard Design</a></h3> <a href="projects.html" class="cat-link">Creative Design</a> </div>
+							<h3 class="title"><a href="{{route('portfolio')}}">Dashboard Design</a></h3> <a href="projects.html" class="cat-link">Creative Design</a> </div>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6 col-sm-12 portfolio-column cat-5 cat-1">
 					<div class="portfolio-item portfolio-style-one mb-55 wow fadeInUp" data-wow-delay=".5s">
-						<div class="img-holder"> <img src="assets/images/portfolio/img-5.jpg" alt="Img">
-							<a href="assets/images/portfolio/img-5.jpg" class="portfolio-hover img-popup">
+						<div class="img-holder"> <img src="{{ asset ('images/portfolio/img-5.jpg') }}" alt="Img">
+							<a href="{{ asset('images/portfolio/img-5.jpg')}}" class="portfolio-hover img-popup">
 								<div class="hover-content"> <i class="far fa-plus"></i> </div>
 							</a>
 						</div>
 						<div class="text">
-							<h3 class="title"><a href="project-details.html">Apps Development</a></h3> <a href="projects.html" class="cat-link">Creative Design</a> </div>
+							<h3 class="title"><a href="{{route('portfolio')}}">Apps Development</a></h3> <a href="projects.html" class="cat-link">Creative Design</a> </div>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6 col-sm-12 portfolio-column cat-4 cat-2">
 					<div class="portfolio-item portfolio-style-one mb-55 wow fadeInUp" data-wow-delay=".6s">
-						<div class="img-holder"> <img src="assets/images/portfolio/img-6.jpg" alt="Img">
-							<a href="assets/images/portfolio/img-6.jpg" class="portfolio-hover img-popup">
+						<div class="img-holder"> <img src="{{ asset ('images/portfolio/img-6.jpg') }}" alt="Img">
+							<a href="{{ asset('images/portfolio/img-6.jpg')}}" class="portfolio-hover img-popup">
 								<div class="hover-content"> <i class="far fa-plus"></i> </div>
 							</a>
 						</div>
 						<div class="text">
-							<h3 class="title"><a href="project-details.html">Website Design</a></h3> <a href="projects.html" class="cat-link">Creative Design</a> </div>
+							<h3 class="title"><a href="{{route('portfolio')}}">Website Design</a></h3> <a href="projects.html" class="cat-link">Creative Design</a> </div>
 					</div>
 				</div>
 			</div>

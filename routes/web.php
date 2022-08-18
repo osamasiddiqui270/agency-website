@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\WebsiteController;
 
 /*
 |--------------------------------------------------------------------------
@@ -13,29 +14,11 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('home.index');
-})->name('home');
-
-Route::get('/about-us', function(){
-    return view('about.index');
-})->name('about');
-
-Route::get('/contact-us', function(){
-    return view('contact.index');
-})->name('contact');
-
-Route::get('/Team member', function(){
-    return view('team.index');
-})->name('team');
-
-Route::get('/services', function(){
-    return view('services.index');
-})->name('services');
-
-Route::get('/portfolio', function(){
-    return view('portfolio.index');
-})->name('portfolio');
-
-
-
+Route::controller(WebsiteController::class)->group(function(){
+    Route::get('/', 'home')->name('home');
+    Route::get('/about-us', 'about')->name('about');
+    Route::get('/our-services', 'services')->name('services');
+    Route::get('/our-portfolio', 'portfolio')->name('portfolio');
+    Route::get('/contact-us', 'contact')->name('contact');
+    Route::get('/our-team', 'team')->name('team');
+});

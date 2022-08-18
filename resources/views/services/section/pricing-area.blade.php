@@ -32,7 +32,7 @@
                   <li class="uncheck">Online Support</li>
                   <li class="uncheck">Domain & Hosting</li>
                 </ul>
-                <a href="service-details.html" class="main-btn arrow-btn bordered-btn btn-blue">Choose Plan</a>
+                <a href="{{route('services')}}" class="main-btn arrow-btn bordered-btn btn-blue">Choose Plan</a>
               </div>
             </div>
           </div>
@@ -54,7 +54,7 @@
                   <li class="check">Online Support</li>
                   <li class="check">Domain & Hosting</li>
                 </ul>
-                <a href="service-details.html" class="main-btn arrow-btn bordered-btn btn-blue">Choose Plan</a>
+                <a href="{{route('services')}}" class="main-btn arrow-btn bordered-btn btn-blue">Choose Plan</a>
               </div>
             </div>
           </div>
@@ -75,7 +75,7 @@
                   <li class="check">Online Support</li>
                   <li class="check">Domain & Hosting</li>
                 </ul>
-                <a href="service-details.html" class="main-btn arrow-btn bordered-btn btn-blue">Choose Plan</a>
+                <a href="{{route('services')}}" class="main-btn arrow-btn bordered-btn btn-blue">Choose Plan</a>
               </div>
             </div>
           </div>

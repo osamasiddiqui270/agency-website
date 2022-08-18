@@ -14,7 +14,7 @@
                 <p class="blue-dark">Professional Design Agency to provide solutions</p>
               </div>
               <p>Sed ut perspiciatis unde omnis iste natus error sit voluptate accusantium doloremque laudantium, totam rem aperiam eaquepsa quae abillo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enimpsam luptate quia voluptas aspernatur aut fugitdolor sit amet</p>
-              <a href="about.html" class="main-btn arrow-btn">Discover More</a>
+              <a href="{{route('contact')}}" class="main-btn arrow-btn">Discover More</a>
             </div>
           </div>
         </div>

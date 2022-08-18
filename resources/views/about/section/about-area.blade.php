@@ -15,7 +15,7 @@
 							<li>Digital Creative Agency</li>
 							<li>Professional Problem Solutions</li>
 							<li>Web Design & Development</li>
-						</ul> <a href="about.html" class="main-btn bordered-btn btn-blue arrow-btn">Learn More Us</a> </div>
+						</ul> {{--<a href="about.html" class="main-btn bordered-btn btn-blue arrow-btn">Learn More Us</a>--}} </div>
 				</div>
 			</div>
 		</div>

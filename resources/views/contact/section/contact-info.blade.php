@@ -18,7 +18,7 @@
                   </div>
                   <div class="info">
                     <h4>Locations</h4>
-                    <p>505 Main Street, 2nd Block, New York</p>
+                    <p>BatlaHouse jamia nagar,New Delhi,India .</p>
                   </div>
                 </div>
               </div>
@@ -74,7 +74,7 @@
           </div>
           <div class="col-lg-5">
             <div class="map-box mb-30">
-              <iframe src="https://maps.google.com/maps?q=new%20york&t=&z=13&ie=UTF8&iwloc=&output=embed"></iframe>
+              <iframe src="https://maps.google.com/maps?q=New%20Delhi&t=&z=13&ie=UTF8&iwloc=&output=embed"></iframe>
             </div>
           </div>
         </div>

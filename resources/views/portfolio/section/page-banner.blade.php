@@ -9,7 +9,7 @@
 					<div class="page-title">
 						<h1>Projects</h1>
 						<ul class="breadcrumbs-link">
-							<li><a href="index.html">Home</a></li>
+							<li><a href="{{route('home')}}">Home</a></li>
 							<li class="active">Projects</li>
 						</ul>
 					</div>

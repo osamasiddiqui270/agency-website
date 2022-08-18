@@ -10,7 +10,7 @@
 								<li>Product Management</li>
 								<li>MVP Definition</li>
 								<li>Product Strategy</li>
-							</ul> <a href="services.html" class="btn-link">Read More</a> </div>
+							</ul> </div>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6 col-sm-12">
@@ -22,7 +22,7 @@
 								<li>Product Management</li>
 								<li>MVP Definition</li>
 								<li>Product Strategy</li>
-							</ul> <a href="services.html" class="btn-link">Read More</a> </div>
+							</ul></div>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6 col-sm-12">
@@ -34,7 +34,7 @@
 								<li>Product Management</li>
 								<li>MVP Definition</li>
 								<li>Product Strategy</li>
-							</ul> <a href="services.html" class="btn-link">Read More</a> </div>
+							</ul></div>
 					</div>
 				</div>
 			</div>

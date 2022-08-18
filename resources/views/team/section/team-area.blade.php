@@ -32,13 +32,13 @@
                 <div class="team-hover">
                   <div class="hover-content">
                     <h3 class="title">
-                      <a href="team-details.html">Douglas J. Bleau</a>
+                      Douglas J. Bleau
                     </h3>
                     <p class="position">UX/UI Designer</p>
                   </div>
                   <div class="hover-content-two">
                     <h3 class="title">
-                      <a href="team-details.html">Douglas J. Bleau</a>
+                      Douglas J. Bleau
                     </h3>
                     <p class="position">UX/UI Designer</p>
                     <ul class="social-link">
@@ -70,13 +70,13 @@
                 <div class="team-hover">
                   <div class="hover-content">
                     <h3 class="title">
-                      <a href="team-details.html">Moses M. Jenkins</a>
+                      Moses M. Jenkins
                     </h3>
                     <p class="position">Web Developer</p>
                   </div>
                   <div class="hover-content-two">
                     <h3 class="title">
-                      <a href="team-details.html">Moses M. Jenkins</a>
+                      Moses M. Jenkins
                     </h3>
                     <p class="position">UX/UI Designer</p>
                     <ul class="social-link">
@@ -108,13 +108,13 @@
                 <div class="team-hover">
                   <div class="hover-content">
                     <h3 class="title">
-                      <a href="team-details.html">William L. Delaney</a>
+                      William L. Delaney
                     </h3>
                     <p class="position">UX/UI Designer</p>
                   </div>
                   <div class="hover-content-two">
                     <h3 class="title">
-                      <a href="team-details.html">William L. Delaney</a>
+                      William L. Delaney
                     </h3>
                     <p class="position">UX/UI Designer</p>
                     <ul class="social-link">

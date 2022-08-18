@@ -34,7 +34,7 @@
                   </li>
                 </ul>
                 <h4>
-                  <a href="team-details.html">Douglas J. Bleau</a>
+                  Douglas J. Bleau
                 </h4>
                 <p class="position">UX/UI Designer</p>
               </div>
@@ -64,7 +64,7 @@
                   </li>
                 </ul>
                 <h4>
-                  <a href="team-details.html">Thomas M. Wilso</a>
+                  Thomas M. Wilso
                 </h4>
                 <p class="position">Web Developer</p>
               </div>
@@ -94,7 +94,7 @@
                   </li>
                 </ul>
                 <h4>
-                  <a href="team-details.html">Robert J. Ryan</a>
+                  Robert J. Ryan
                 </h4>
                 <p class="position">SEO Marketing</p>
               </div>
@@ -124,7 +124,7 @@
                   </li>
                 </ul>
                 <h4>
-                  <a href="team-details.html">Kenneth K. Joiner</a>
+                  Kenneth K. Joiner
                 </h4>
                 <p class="position">UX/UI Designer</p>
               </div>
@@ -154,7 +154,7 @@
                   </li>
                 </ul>
                 <h4>
-                  <a href="team-details.html">Harold F. Garber</a>
+                  Harold F. Garber
                 </h4>
                 <p class="position">Senior Manager</p>
               </div>
@@ -184,7 +184,7 @@
                   </li>
                 </ul>
                 <h4>
-                  <a href="team-details.html">Michael V. Howard</a>
+                  Michael V. Howard
                 </h4>
                 <p class="position">Junior Marketer</p>
               </div>
@@ -214,7 +214,7 @@
                   </li>
                 </ul>
                 <h4>
-                  <a href="team-details.html">Louis R. Bellows</a>
+                  Louis R. Bellows
                 </h4>
                 <p class="position">SEO Marketing</p>
               </div>
@@ -244,7 +244,7 @@
                   </li>
                 </ul>
                 <h4>
-                  <a href="team-details.html">Moses M. Jenkins</a>
+                  Moses M. Jenkins
                 </h4>
                 <p class="position">UX/UI Designer</p>
               </div>
@@ -254,7 +254,7 @@
         <div class="row">
           <div class="col-lg-12">
             <div class="button-box text-center wow fadeInUp">
-              <a href="team.html" class="main-btn arrow-btn">View All Member</a>
+              {{-- <a href="team.html" class="main-btn arrow-btn">View All Member</a> --}}
             </div>
           </div>
         </div>

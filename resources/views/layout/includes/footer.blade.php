@@ -17,12 +17,12 @@
 						<div class="widget footer-nav-widget mb-40 wow fadeInUp" data-wow-delay=".15s">
 							<h4 class="widget-title">Services</h4>
 							<ul class="widget-nav">
-								<li><a href="services.html">UX/UI Design</a></li>
-								<li><a href="services.html">Web Development</a></li>
-								<li><a href="services.html">SEO Optimization</a></li>
-								<li><a href="services.html">Product Design</a></li>
-								<li><a href="services.html">Logo Design</a></li>
-								<li><a href="services.html">Brand Design</a></li>
+								<li><a href="{{route('portfolio')}}">UX/UI Design</a></li>
+								<li><a href="{{route('portfolio')}}">Web Development</a></li>
+								<li><a href="{{route('portfolio')}}">SEO Optimization</a></li>
+								<li><a href="{{route('portfolio')}}">Product Design</a></li>
+								<li><a href="{{route('portfolio')}}">Logo Design</a></li>
+								<li><a href="{{route('portfolio')}}">Brand Design</a></li>
 							</ul>
 						</div>
 					</div>
@@ -30,12 +30,12 @@
 						<div class="widget footer-nav-widget mb-40 wow fadeInUp" data-wow-delay=".20s">
 							<h4 class="widget-title">Links</h4>
 							<ul class="widget-nav">
-								<li><a href="services.html">About Agency</a></li>
-								<li><a href="services.html">Latest News & Blog</a></li>
-								<li><a href="services.html">Meet The Team</a></li>
-								<li><a href="services.html">Popular Services</a></li>
-								<li><a href="services.html">Testimonials</a></li>
-								<li><a href="services.html">Need a Career?</a></li>
+								<li><a href="{{route('about')}}">About Agency</a></li>
+								<li><a href="{{route('about')}}">Latest News & Blog</a></li>
+								<li><a href="{{route('team')}}">Meet The Team</a></li>
+								<li><a href="{{route('services')}}">Popular Services</a></li>
+								<li><a href="{{route('portfolio')}}">Testimonials</a></li>
+								<li><a href="{{route('services')}}">Need a Career?</a></li>
 							</ul>
 						</div>
 					</div>
@@ -80,11 +80,11 @@
 							<ul>
 								<li><a href="service-details.html">Setting & Privacy </a></li>
 								<li><a href="service-details.html">Faqs</a></li>
-								<li><a href="service-details.html">Services</a></li>
+								<li><a href="{{route('services')}}">Services</a></li>
 							</ul>
 						</div>
 					</div>
 				</div>
 			</div>
 		</div>
-	</footer> 
+	</footer>

@@ -45,7 +45,7 @@
           <div class="portfolio-item portfolio-style-one wow fadeInUp">
             <div class="img-holder">
               <img src="{{ asset('images/portfolio/img-3.jpg') }}" alt="Img">
-              <a href="assets/images/portfolio/img-3.jpg" class="portfolio-hover img-popup">
+              <a href="{{ asset('images/portfolio/img-3.jpg') }}" class="portfolio-hover img-popup">
                 <div class="hover-content">
                   <i class="far fa-plus"></i>
                 </div>
@@ -53,15 +53,15 @@
             </div>
             <div class="text">
               <h3 class="title">
-                <a href="project-details.html">Illustration Design</a>
+                <a href="{{route('portfolio')}}">Illustration Design</a>
               </h3>
-              <a href="projects.html" class="cat-link">Creative Design</a>
+              <a href="{{route('portfolio')}}" class="cat-link">Creative Design</a>
             </div>
           </div>
           <div class="portfolio-item portfolio-style-one wow fadeInUp">
             <div class="img-holder">
               <img src="{{ asset('images/portfolio/img-4.jpg') }}" alt="Img">
-              <a href="assets/images/portfolio/img-4.jpg" class="portfolio-hover img-popup">
+              <a href="{{ asset('images/portfolio/img-4.jpg')}}" class="portfolio-hover img-popup">
                 <div class="hover-content">
                   <i class="far fa-plus"></i>
                 </div>
@@ -69,9 +69,9 @@
             </div>
             <div class="text">
               <h3 class="title">
-                <a href="project-details.html">Dashboard Design</a>
+                <a href="{{route('portfolio')}}">Dashboard Design</a>
               </h3>
-              <a href="projects.html" class="cat-link">Creative Design</a>
+              <a href="{{route('portfolio')}}" class="cat-link">Creative Design</a>
             </div>
           </div>
         </div>
