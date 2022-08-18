@@ -33,5 +33,9 @@ Route::get('/services', function(){
     return view('services.index');
 })->name('services');
 
+Route::get('/portfolio', function(){
+    return view('portfolio.index');
+})->name('portfolio');
+
 
 

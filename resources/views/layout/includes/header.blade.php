@@ -18,9 +18,8 @@
 						</div>
 						<nav class="main-menu">
 							<ul>
-								<li class="menu-item has-children"><a href="{{ route('services') }}" class="nav-link">Services</a></li>
-								<li class="menu-item has-children"><a href="index.html#" class="nav-link">Portfolio</a>
-								</li>
+								<li class="menu-item"><a href="{{ route('services') }}" class="nav-link">Services</a></li>
+								<li class="menu-item"><a href="{{ route('portfolio') }}" class="nav-link">Portfolio</a></li>
 								<li class="menu-item"><a href="{{ route('team') }}" class="nav-link">Our Team</a></li>
 								<li class="menu-item"><a href="{{ route('about') }}"  class="nav-link">About Us</a></li>
 								<li class="menu-item"><a href="{{ route('contact') }}" class="nav-link">Contact</a></li>
